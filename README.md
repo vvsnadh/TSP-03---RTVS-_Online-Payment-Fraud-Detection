@@ -18,9 +18,9 @@ Scikit-learn
 Matplotlib
 
 Getting Started :
-Clone the repository: git clone https://github.com/vvsnadh/TSP-03---RTVS-_Online-Payment-Fraud-Detection
+Clone the repository : git clone https://github.com/vvsnadh/TSP-03---RTVS-_Online-Payment-Fraud-Detection
 Install dependencies: 
-pip install -r requirements.txt
+pip install -file requirements.txt
 
 
 Dataset :
